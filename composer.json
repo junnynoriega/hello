@@ -1,0 +1,16 @@
+{
+  "name": "328/food",
+  "authors": [
+    {
+      "name": "Junny Noriega-Arenas",
+      "email": "noriega-arenas.junny@student.greenriver.edu"
+    },
+    {
+      "name": "Joe Shmo",
+      "email": "jshmo@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
